@@ -32,6 +32,6 @@ Mis-Practicas/
 
  
 2. **The React Transformation (03-multipage-reactified)**
- - **Atomic Component Breakdown:** Shredding monolithic HTML files into highly reusable UI blocks (<Navbar />, <Footer />).
+ - **Atomic Component Breakdown:** Shredding monolithic HTML files into highly reusable UI blocks.
 
  - **SPA Architecture:** Eliminating browser refreshes by implementing standard virtual routing frameworks.
